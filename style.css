@@ -1,0 +1,17 @@
+
+.para{
+    /* line-height: 10px; */
+    /* letter-spacing: 30px; */
+    /* text-align: right; */
+    /* text-decoration: line-through; */
+    /* text-indent: 300px; */
+    /* text-transform: none; */
+    color: red;
+
+
+    font-family: 'Fira Sans', sans-serif;
+    /* font-size: 20px; */
+    /* font-style: ; */
+    /* font-variant: ; */
+    font-weight: bold;
+}
